@@ -1,7 +1,7 @@
 # infog-maxcontrast
 Colors of Maximum Contrast Reference card
 
-|iscc-nbs number|   Hex  | R | G | B |
+|ISCC-NBS Number|   Hex  | R | G | B |
 |---------------|--------|---|---|---|
 |263            | F2F3F4 |242|243|244|
 |267            | 222222 | 34| 34| 34|
