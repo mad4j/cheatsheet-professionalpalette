@@ -23,7 +23,7 @@ Colors of Maximum Contrast Reference card
 |18 |<div color="#000000">x</div>| reddish brown  |40             | 882D17 |136| 45| 23|
 |19 |<div color="#000000">x</div>| yellow green   |115            | 8DB600 |141|182|  0|
 |20 |<div color="#000000">x</div>| yellowish brown|75             | 654522 |101| 69| 34|
-|21 |<div color="#000000">x</div>| reddit orange  |34             | E25822 |226| 88| 34|
+|21 |<div color="#000000">x</div>| reddish orange |34             | E25822 |226| 88| 34|
 |22 |<div color="#000000">x</div>| olive green    |126            | 2B3D26 | 43| 61| 38|
 
 
