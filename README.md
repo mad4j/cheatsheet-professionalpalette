@@ -1,7 +1,7 @@
 # infog-maxcontrast
 Colors of Maximum Contrast Reference card
 
-| # |Color Name|ISCC-NBS Number|   Hex  | R | G | B |
+| # |Color Name      |ISCC-NBS Number|   Hex  | R | G | B |
 |:-:|--------------- |---------------|--------|--:|--:|--:|
 | 1 | white          |263            | F2F3F4 |242|243|244|
 | 2 | black          |267            | 222222 | 34| 34| 34|
@@ -22,6 +22,6 @@ Colors of Maximum Contrast Reference card
 |17 | greenish yellow|97             | DCD300 |220|211|  0|
 |18 | reddish brown  |40             | 882D17 |136| 45| 23|
 |19 | yellow green   |115            | 8DB600 |141|182|  0|
-|20 | yellowishnbrown|75             | 654522 |101| 69| 34|
+|20 | yellowish brown|75             | 654522 |101| 69| 34|
 |21 | reddit orange  |34             | E25822 |226| 88| 34|
 |22 | olive green    |126            | 2B3D26 | 43| 61| 38|
