@@ -25,3 +25,7 @@ Colors of Maximum Contrast Reference card
 |20 | yellowish brown|75             | 654522 |101| 69| 34|
 |21 | reddit orange  |34             | E25822 |226| 88| 34|
 |22 | olive green    |126            | 2B3D26 | 43| 61| 38|
+
+
+### References
+* [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
