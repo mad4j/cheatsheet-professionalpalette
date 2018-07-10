@@ -5,7 +5,7 @@ Colors of Maximum Contrast Reference card
 |:-:|----------------|---------------|--------|--:|--:|--:|-----:|
 | 1 | white          |263            | F2F3F4 |242|243|244|![white](white.svg)|
 | 2 | black          |267            | 222222 | 34| 34| 34|![black](black.svg)|
-| 3 | yellow         |82	           | F3C300 |243|195|  0|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
+| 3 | yellow         |82	           | F3C300 |243|195|  0|![yellow](yellow.svg)|
 | 4 | purple         |218            | 875692 |135| 86|146|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 5 | orange         |48             | F38400 |243|132|  0|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 6 | light blue     |180            | A1CAF1 |161|202|241|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
