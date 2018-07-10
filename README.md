@@ -27,8 +27,5 @@ Colors of Maximum Contrast Reference card
 |22 | olive green    |126            | 2B3D26 | 43| 61| 38|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 
 
-
-<span style="background:#FFF2F3F4; width:256px;">xxx</span>
-
 ### References
 * [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
