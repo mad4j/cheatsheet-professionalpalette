@@ -5,7 +5,7 @@ Colors of Maximum Contrast Reference card
 |:-:|----------------|---------------|--------|--:|--:|--:|------|
 | 1 | white          |263            | F2F3F4 |242|243|244|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 2 | black          |267            | 222222 | 34| 34| 34|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
-| 3 | yellow         |82	            | F3C300 |243|195|  0|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
+| 3 | yellow         |82	           | F3C300 |243|195|  0|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 4 | purple         |218            | 875692 |135| 86|146|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 5 | orange         |48             | F38400 |243|132|  0|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 6 | light blue     |180            | A1CAF1 |161|202|241|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
@@ -26,6 +26,9 @@ Colors of Maximum Contrast Reference card
 |21 | reddish orange |34             | E25822 |226| 88| 34|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 |22 | olive green    |126            | 2B3D26 | 43| 61| 38|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 
+
+
+<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>
 
 ### References
 * [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
