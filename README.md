@@ -28,7 +28,7 @@ Colors of Maximum Contrast Reference card
 
 
 
-<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>
+<div style='background:#FFF2F3F4; width:256px;'>xxx</div>
 
 ### References
 * [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
