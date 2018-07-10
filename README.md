@@ -18,17 +18,17 @@ Colors of Maximum Contrast Reference card
 |13 | yellowish pink |26             | F99379 |249|147|121|![yellowish pink](yellowish-pink.svg)|
 |14 | violet         |207            | 604E97 | 96| 78|151|![violet](violet.svg)|
 |15 | orange yellow  |66             | F6A600 |246|166|  0|![orange yellow](orange-yellow.svg)|
-|16 | purplish red   |255            | B3446C |179| 68|108|![yellow](yellow.svg)|
-|17 | greenish yellow|97             | DCD300 |220|211|  0|![yellow](yellow.svg)|
-|18 | reddish brown  |40             | 882D17 |136| 45| 23|![yellow](yellow.svg)|
-|19 | yellow green   |115            | 8DB600 |141|182|  0|![yellow](yellow.svg)|
-|20 | yellowish brown|75             | 654522 |101| 69| 34|![yellow](yellow.svg)|
-|21 | reddish orange |34             | E25822 |226| 88| 34|![yellow](yellow.svg)|
-|22 | olive green    |126            | 2B3D26 | 43| 61| 38|![yellow](yellow.svg)|
+|16 | purplish red   |255            | B3446C |179| 68|108|![purplish red](purplish-red.svg)|
+|17 | greenish yellow|97             | DCD300 |220|211|  0|![greenish yellow](greenish-yellow.svg)|
+|18 | reddish brown  |40             | 882D17 |136| 45| 23|![reddish brown](reddish-brown.svg)|
+|19 | yellow green   |115            | 8DB600 |141|182|  0|![yellow green](yellow-green.svg)|
+|20 | yellowish brown|75             | 654522 |101| 69| 34|![yellowish brown](yellowish-brown.svg)|
+|21 | reddish orange |34             | E25822 |226| 88| 34|![reddish orange](reddish-orange.svg)|
+|22 | olive green    |126            | 2B3D26 | 43| 61| 38|![olive green](olive-green.svg)|
 
 
 ### References
 * [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
 
 
-2018, daniele.olmisani@gmail.com
+daniele.olmisani@gmail.com
