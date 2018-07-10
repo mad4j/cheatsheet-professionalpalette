@@ -2,7 +2,7 @@
 Colors of Maximum Contrast Reference card
 
 | # |Color Name      |ISCC-NBS Number|   Hex  | R | G | B |Sample|
-|:-:|----------------|---------------|--------|--:|--:|--:|------|
+|:-:|----------------|---------------|--------|--:|--:|--:|-----:|
 | 1 | white          |263            | F2F3F4 |242|243|244|![white](white.svg)|
 | 2 | black          |267            | 222222 | 34| 34| 34|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
 | 3 | yellow         |82	           | F3C300 |243|195|  0|<div style='background:#FFF2F3F4; width:256px;'>&nbsp;</div>|
