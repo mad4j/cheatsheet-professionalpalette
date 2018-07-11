@@ -1,5 +1,5 @@
 
-# infog-maxcontrast
+# Professional Palette
 
 Colors of Maximum Contrast Reference card
 
