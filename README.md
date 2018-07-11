@@ -32,4 +32,6 @@ Colors of Maximum Contrast Reference card
 
 * [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
 
+----
+
 daniele.olmisani@gmail.com
