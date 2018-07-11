@@ -1,11 +1,13 @@
+
 # infog-maxcontrast
+
 Colors of Maximum Contrast Reference card
 
 | # |Color Name      |ISCC-NBS Number|   Hex  | R | G | B |Sample|
 |:-:|----------------|---------------|--------|--:|--:|--:|-----:|
 | 1 | white          |263            | F2F3F4 |242|243|244|![white](white.svg)|
 | 2 | black          |267            | 222222 | 34| 34| 34|![black](black.svg)|
-| 3 | yellow         |82	           | F3C300 |243|195|  0|![yellow](yellow.svg)|
+| 3 | yellow         |82             | F3C300 |243|195|  0|![yellow](yellow.svg)|
 | 4 | purple         |218            | 875692 |135| 86|146|![purple](purple.svg)|
 | 5 | orange         |48             | F38400 |243|132|  0|![orange](orange.svg)|
 | 6 | light blue     |180            | A1CAF1 |161|202|241|![light blue](light-blue.svg)|
@@ -26,9 +28,8 @@ Colors of Maximum Contrast Reference card
 |21 | reddish orange |34             | E25822 |226| 88| 34|![reddish orange](reddish-orange.svg)|
 |22 | olive green    |126            | 2B3D26 | 43| 61| 38|![olive green](olive-green.svg)|
 
-
 ### References
-* [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
 
+* [LifeHacker](http://hackerspace.lifehacker.com/some-os-x-calendar-tips-1658107833/1665644975/+whitsongordon)
 
 daniele.olmisani@gmail.com
